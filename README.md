@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 #### Run Our Model
 
-To modify the power flow inputs, please execute the following code.
+To perform the power flow calculation, please execute the following code.
 
 ```
 python test_final_ture&pre.py
