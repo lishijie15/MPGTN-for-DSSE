@@ -1,6 +1,6 @@
 # MPGTN for DSSE
 
-The code for the power flow calculation will be prioritized for public release, followed by a gradual disclosure of the MPGTN code.
+Codes for the power flow calculation will be prioritized for public release, followed by a gradual disclosure of the complete codebase.
 
 #### Requirements
 
