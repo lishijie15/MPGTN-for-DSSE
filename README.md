@@ -19,7 +19,7 @@ pip install -r requirements.txt
 To modify the power flow inputs, please execute the following code.
 
 ```
-python PF_transfer.py 
+python test_final_ture&pre.py
 ```
 
 Control the load flow parameters by modifying the Master.dss file.
