@@ -31,3 +31,18 @@ python test_final_ture&pre.py
 ```
 
 Control the load flow parameters by modifying the Master.dss file.
+
+## BibTeX
+If you find our work useful in your research. Please consider giving a star ⭐ and citation 📚.
+
+```bash
+@ARTICLE{Shijie2024,
+  author={Li, Shijie and Li, Weijian and Chen, Lulu and Jiang, Huaiguang and Zhang, Jun and Gao, David Wenzhong},
+  journal={IEEE Transactions on Smart Grid}, 
+  title={Real-Time Robust State Estimation for Large-Scale Low-Observability Power-Transportation System Based on Meta Physics-Informed Graph TimesNet}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1}
+}
+```
