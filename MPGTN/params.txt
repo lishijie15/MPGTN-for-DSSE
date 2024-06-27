@@ -1,0 +1,27 @@
+[common]
+N_link = 2528
+adj01_path = ../power_traffic/expy-co_adj01.npy
+road_path = ../power_traffic/expy-co_link_info.csv
+
+[200710]
+traffic_path = ../power_traffic/expy-co_200710.csv
+
+[200711] 
+traffic_path = ../power_traffic/expy-co_200711.csv
+
+[200712] 
+test_month = ['200712']
+train_month = ['200710', '200711']
+traffic_path = ../power_traffic/expy-co_200712.csv
+
+[whole]
+compose = ../power_traffic/compose_0.csv
+
+[power_traffic]
+subroad_path = ../power_traffic/co_link_idx.csv
+
+[EXPYTKY]
+subroad_path = ../EXPYTKY/tokyo_link_idx.csv
+
+[EXPYTKY*]
+subroad_path = ../power_traffic/tokyoall_link_idx.csv
