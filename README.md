@@ -40,8 +40,8 @@ If you find our work useful in your research. Please consider giving a star ⭐ 
   journal={IEEE Transactions on Smart Grid}, 
   title={Real-Time Robust State Estimation for Large-Scale Low-Observability Power-Transportation System Based on Meta Physics-Informed Graph TimesNet}, 
   year={2024},
-  volume={},
-  number={},
-  pages={1-1}
+  volume={15},
+  number={6},
+  pages={5500-5513},
 }
 ```
