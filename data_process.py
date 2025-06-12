@@ -3,12 +3,11 @@ import math
 import numpy as np
 
 def strfill(src, lg, str1):
-    # math.ceil是向上取整，这个下面会具体介绍
     n = math.ceil((lg - len(src)) / len(str1))
     newstr = src + str1 * n
     return newstr[0:lg]
 
-def PowerFlow_transition(pf_mode=None):  # args.pf_mode
+def PowerFlow_transition(pf_mode=None):
     YS_out = pd.read_csv('./Your_customized_path/Power_traffic_coordinated/8500node/test/MegaCRN_YS_out.csv',
                      header=None)
     v = YS_out.values
