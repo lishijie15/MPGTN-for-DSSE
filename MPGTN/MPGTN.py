@@ -5,7 +5,6 @@ import numpy as np
 import torch.fft
 import time
 from layers.Embed_test import DataEmbedding, SpaceEmbedding
-from layers.Conv_Blocks_dsc_tky import MobileNetV1
 from layers.Conv_Blocks import Inception_Block_V1
 
 def FFT_for_Period(x, k):
